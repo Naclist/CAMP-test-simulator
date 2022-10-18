@@ -6,5 +6,5 @@ According to the known hemolysis and biological features of S.a and GBS, we made
 3. The reaction between β-lyzed SRBC and CAMP factor was proportional and specifical, in other words, what happend here was like reaction between antibody and antigen.
 
 So, it was clear that CAMP test should have shore a similar mode with DID(double Immuno Diffusion test).
-However，CAMP test will not reflect the reaction directly with "Immunoprecipitation" liked stuffs, instead, CAMP test can merely depict the hemolysis of SRBC.
+However，CAMP test will not reflect the reaction directly with "Immunoprecipitation" like stuffs, instead, CAMP test can merely depict the hemolysis of SRBC.
 That is the reason why CAMP test was half-different with DID on the one side but half matched on the other side.
